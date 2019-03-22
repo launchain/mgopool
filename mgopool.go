@@ -10,7 +10,7 @@ import (
 
 const (
 	sessionTimeout = 60 * 60 * 3
-	poolSize       = 128
+	poolSize       = 32
 )
 
 // DB ...
